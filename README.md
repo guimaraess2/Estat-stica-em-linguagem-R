@@ -20,4 +20,4 @@ data is a multidisciplinary field that uses scientific methods, processes and sy
 in various ways. Data scientists use many methods, including data. However, the fields
 differ in their processes, the types of problems studied, and various other factors.
 
-In this repository are stored projects in R Python language
+In this repository are stored projects in R and Python language
